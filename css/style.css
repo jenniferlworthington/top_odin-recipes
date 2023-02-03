@@ -1,4 +1,10 @@
-img {
-  width: 300px;
+.img-square,
+.img-vertical {
+  width: 400px;
   height: auto;
+}
+
+.img-horizontal {
+  height: 400px;
+  width: auto;
 }
